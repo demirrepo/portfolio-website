@@ -1,0 +1,72 @@
+{
+  "mainSkills": [
+    {
+      "name": "HTML",
+      "icon": "html5",
+      "color": "#FF5733",
+      "progress": 90
+    },
+    {
+      "name": "CSS",
+      "icon": "css3",
+      "color": "#2965F1",
+      "progress": 85
+    },
+    {
+      "name": "JavaScript",
+      "icon": "js",
+      "color": "#F7DF1E",
+      "progress": 75
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Tailwind",
+      "icon": "tailwind",
+      "description": "Learning utility-first CSS framework for efficient web design",
+      "iconColor": "#06B6D4"
+    },
+    {
+      "name": "React",
+      "icon": "react",
+      "description": "Learning React for building dynamic and interactive UIs",
+      "iconColor": "#61DAFB"
+    },
+    {
+      "name": "Node.js",
+      "icon": "node",
+      "description": "Learning Node.js for server-side JavaScript application development",
+      "iconColor": "#339933"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongodb",
+      "description": "Learning utility-first CSS framework for efficient web design",
+      "iconColor": "#47A248"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "description": "Learning GitHub for version control and team collaboration",
+      "iconColor": "#ffffff"
+    },
+    {
+      "name": "VS Code",
+      "icon": "vscode",
+      "description": "Proficient in using Visual Studio Code for coding tasks",
+      "iconColor": "#007ACC"
+    },
+    {
+      "name": "Figma",
+      "icon": "figma",
+      "description": "Advanced skills in UI/UX design and prototyping with Figma",
+      "iconColor": "#F24E1E"
+    },
+    {
+      "name": "Adobe XD",
+      "icon": "adobexd",
+      "description": "Advanced expertise in prototype and interface design with Adobe XD",
+      "iconColor": "#FF61F6"
+    }
+  ]
+}
